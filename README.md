@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: 18551586305
 - 🌱 I’m currently learning Javascript
+- this is my email: blesstosam@gmail.com
 
 <!--
 **blesstosam/blesstosam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
